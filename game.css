@@ -1,6 +1,7 @@
 body
 {
-	background: lightblue;
+	background:black;
+	color: white;
 }
 
 	.loginDiv1 , .loginDiv2
@@ -33,4 +34,17 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+color: black;
 }
+
+#fancy_button {
+width:60%;	
+background-color:gray;
+}
+
+#word {
+	background-color:white;
+	
+}
+
+
